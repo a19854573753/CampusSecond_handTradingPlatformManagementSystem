@@ -4,7 +4,7 @@
 # 162.CampusSecond_handTradingPlatformManagementSystem
 
 <p>抠: 206157502(sql文件)</p>
-<p>V：bisebao888888(sql文件)</p>
+<p>V：bishebao888888(sql文件)</p>
 
 <p><h1 align="center">162.校园二手交易平台管理系统</h1></p>
 
